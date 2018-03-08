@@ -4,8 +4,6 @@
 #include <random>
 #include <stdexcept>
 
-#include <ndn-cxx/util/digest.hpp>
-
 #include "logging.hpp"
 #include "node.hpp"
 #include "vsync-helper.hpp"
